@@ -11,5 +11,5 @@
 
 
 
-这个小东西不会放到Google Chrome商店，需要的话，请自行下载。
+这个小东西不会放到Google Chrome商店，需要的话，请自行[下载](https://github.com/alvayang/noGoogleFonts/releases/download/0.1/noGoogleFonts.crx)
 
