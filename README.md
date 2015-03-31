@@ -1,0 +1,2 @@
+# noGoogleFonts
+将GoogleFonts之类在中国非VPN环境下无法直接访问的网站的请求直接拒绝掉，以提高浏览体验。
