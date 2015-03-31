@@ -1,0 +1,20 @@
+{
+    "manifest_version": 2,
+    "author" : "Yang.Song",
+        "name": "noGoogleFonts",
+        "description": "这个扩展会停掉一些中国无法访问网站的请求,例如Google字体，用于提高页面加载的感官效果。",
+        "version": "1.0",
+        "manifest_version" : 2,
+         "homepage_url": "http://noGoogleFonts.cloudbaoxiao.com",
+        "background" : {
+            "scripts" : ["eventPage.js"]
+        },
+        "browser_action": {
+            "default_icon": "logo.png"
+        },
+        "permissions": [
+         "webRequest",
+         "webRequestBlocking",
+         "http://*/*", "https://*/*"
+            ]
+}
